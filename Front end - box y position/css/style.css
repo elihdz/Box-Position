@@ -1,0 +1,269 @@
+*{box-sizing: border-box}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+header{position: relative;}
+
+.descuentos{ font-family: 'Roboto', sans-serif; 
+            color: black;
+            font-style: normal;  
+            background-color: #1CD1B0;
+            position: absolute;
+            width: 1024px;
+            height: 38px;            
+            left: 0px;
+            top:0px;
+            padding: 10px 700px 10px 27px;
+             
+
+        }
+.heroes{font-family: 'Roboto', sans-serif; 
+        color: black;
+        font-style: normal; 
+        background-color: #00669F;
+        position: absolute;
+        width: 1024px;
+        height: 101px;       
+        left: 0px;
+        top: 33px;
+        padding: 10px 700px 10px 27px;
+        
+}
+
+main{position: relative;}     
+
+.fondoBatman1{position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 293px;
+   }
+
+.batmanPerfil1{border-radius: 50%;
+                position: absolute;
+                width: 120px;
+                height: 118px;
+                left: 122px;
+                top: 421px;
+               
+            }
+
+
+.parrafoBatman1{position: absolute;
+                width: 267px;
+                height: 113px;
+                left: 48px;
+                top: 604px;
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 19px;               
+            }
+
+.Batman1{position: absolute;
+            width: 122px;
+            height: 35px;
+            left: 121px;
+            top: 559px;
+            
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 30px;
+            line-height: 35px;
+            display: flex;
+            align-items: flex-end;
+            text-align: center;
+                   
+        }
+
+.verMas1 {position: absolute;
+            background-color: #00669F;
+            width: 128.78px;
+            height: 48.52px;
+            left: 100px;
+            top: 769px;
+            padding: 15px 35.78px 15px 37px;
+            margin: auto;
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 18px;}
+
+.fondoHarley{ position: absolute;
+            width: 300px;
+            height: 193px;
+            left: 362px;
+            top: 293px;
+
+}         
+
+.harleyPerfil{border-radius: 50%;
+                position: absolute;
+                width: 122px;
+                height: 122px;
+                left: 451px;
+                top: 419px;
+    
+
+}
+
+.harley{position: absolute;
+        width: 185px;
+        height: 35px;
+        left: 427px;
+        top: 559px;
+        
+        font-family: 'Roboto', sans-serif;
+        font-style:normal;
+        font-weight:400;
+        font-size: 30px;
+        line-height: 35px;
+        display: flex;
+        align-items: flex-end;
+        text-align: center;  
+    
+              
+
+}
+.parrafoHarley{position: absolute;
+                width: 267px;
+                height: 113px;
+                left: 378px;
+                top: 604px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 19px;
+                
+}
+
+.verMas2{position: absolute;
+        background-color: #00669F;
+        width: 128.78px;
+        height: 48.52px;
+        left: 435px;
+        top: 769px;
+        padding: 15px 35.78px 15px 37px;
+        margin: auto;
+        
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+
+}
+
+
+.fondoBatman2{ position: absolute;
+                width: 300px;
+                height: 193px;
+                left: 692px;
+                top: 294px;
+
+}
+
+.batmanPerfil2{border-radius: 50%;
+                position: absolute;
+                width: 122px;
+                height: 120px;
+                left: 781px;
+                top: 420px;
+
+}
+
+.Batman2{ position: absolute;
+            width: 122px;
+            height: 35px;
+            left: 781px;
+            top: 560px;
+            
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 30px;
+            line-height: 35px;
+            display: flex;
+            align-items: flex-end;
+            text-align: center;
+
+}
+
+.parrafoBatman2{position: absolute;
+                width: 267px;
+                height: 113px;
+                left: 708px;
+                top: 605px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 19px;
+    
+
+}
+
+.verMas3{position: absolute;
+         background-color: #00669F;
+         width: 128.78px;
+         height: 48.52px;
+         left: 770px;
+         top: 770px;
+         margin: auto;
+         padding: 15px 35.78px 15px 37px;
+        
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+
+}
+
+footer{position: relative;}
+
+.piePagina{background-color: #00669F;
+            position: absolute;
+            width: 1024px;
+            height: 51px;
+            left: 0px;
+            top: 972px;
+        
+            font-family: 'Roboto', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 19px;
+            color: white;
+            padding: 16px 600px 16px 16px;
+           
+        }
+.icono1{position: absolute; 
+        color: #CC2424;
+        font-size: 35px;
+        padding: 308px 600px 500.88px 53px;
+        
+       
+
+}
+.icono2{position: absolute;
+        color: #CC2424;
+        font-size: 35px; 
+        padding: 308px 611px 383px 380px;
+    
+
+}
+.icono3{position: absolute;
+        color: #CC2424;
+        font-size: 35px;
+        padding: 308px 200px 680px 710px;
+
+}
+
